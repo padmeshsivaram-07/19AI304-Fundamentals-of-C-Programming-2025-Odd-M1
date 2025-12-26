@@ -63,7 +63,7 @@ int main() {
 
 ```
 # Output:
-![alt text](<../Screenshot 2025-12-26 182752.png>)
+![alt text](<Screenshot 2025-12-26 182752.png>)
 
 
 # Result: 
@@ -114,7 +114,7 @@ int main() {
 }
 ```
 # Output:
-![alt text](<../Screenshot 2025-12-26 182823.png>)
+![alt text](<Screenshot 2025-12-26 182823.png>)
 
 
 # Result: 
@@ -161,7 +161,7 @@ int main() {
 
 ```
 # Output:
-![alt text](<../Screenshot 2025-12-26 183236.png>)
+![alt text](<Screenshot 2025-12-26 183236.png>)
 
 # Result: 
 
@@ -239,7 +239,7 @@ int main() {
 }
 ```
 # Output:
-![alt text](<../Screenshot 2025-12-26 183333.png>)
+![alt text](<Screenshot 2025-12-26 183333.png>)
 
 
 # Result: 
@@ -311,7 +311,7 @@ int main() {
 
 ```
 # Output:
-![alt text](<../Screenshot 2025-12-26 183435.png>)
+![alt text](<Screenshot 2025-12-26 183435.png>)
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
